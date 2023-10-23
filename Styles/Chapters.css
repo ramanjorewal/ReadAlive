@@ -64,6 +64,7 @@ body {
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
+    font-size: clamp(14px, 4vw, 21px);
 }
 
 .chapter-button:hover {
